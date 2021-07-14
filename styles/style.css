@@ -79,12 +79,13 @@ button{
  .player{
     background: #FFFFFF;
     box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
+    width: 330px;
     padding: 15px;
  }
 
 
  .players-thumbnail img{
-     width: 300px;
+     width: 330px;
  }
  .player-info h3{
      font-size: 28px;
@@ -212,11 +213,17 @@ footer{
         display: grid;
         grid-template-columns: repeat(1,1fr);
     }
+
     .player{
         background: #FFFFFF;
         box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
+        width: 300px;
         padding: 15px;
     }
+    .players-thumbnail img{
+        width: 290px;
+    }
+    
    
     .media-banner{
         flex-direction: column;
