@@ -64,6 +64,7 @@ button{
  /* style for main area 
  -------------- */
  /* style for top section  */
+
  .container{
      width: 60%;
      margin:70px auto;
@@ -199,6 +200,13 @@ footer{
     .half-width img{
         width:329px; 
     }
+    main{
+        width: 100%;
+    }
+    .container{
+        width: 90%;
+        margin: auto;
+    }
 
     .players{
         display: grid;
@@ -209,9 +217,7 @@ footer{
         box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
         padding: 15px;
     }
-    .container{
-        width: 80%;
-    }
+   
     .media-banner{
         flex-direction: column;
         padding: 15.5px;
