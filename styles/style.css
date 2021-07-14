@@ -198,14 +198,14 @@ footer{
         
     }
     .half-width img{
-        width:329px; 
+        width:330px; 
     }
     main{
         width: 100%;
     }
     .container{
-        width: 90%;
-        margin: auto;
+        width: 80%;
+        margin: 30 auto;
     }
 
     .players{
@@ -220,7 +220,7 @@ footer{
    
     .media-banner{
         flex-direction: column;
-        padding: 15.5px;
+        padding: 15px;
 
     }
     .highlight-info h2 {
