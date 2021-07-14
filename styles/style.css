@@ -235,5 +235,22 @@ footer{
         text-align: center;
     
     }
+    footer{
+        width: 320px;
+        height: 213px;
+       margin:80px auto;
+    }
+    .logo img{
+        width:255px;
+        height: 63px;
+        
+        
+
+    }
+    .fa-dribbble-square,.fa-instagram-square,.fa-twitter-square,.fa-youtube{
+        color: lightslategrey;
+        font-size: 26px;
+        margin:0 10px;
+    }
 
 }
